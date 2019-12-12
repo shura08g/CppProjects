@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1563264094 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\3_homework\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1564126993 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\3_homework1\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<string.h>
+

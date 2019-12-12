@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563434180 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\3_homework2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

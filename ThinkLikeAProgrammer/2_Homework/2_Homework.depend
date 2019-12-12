@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559038170 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\2_homework\main.cpp
+	<iostream>
+	<string.h>
+
