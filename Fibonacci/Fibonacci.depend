@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566293462 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\fibonacci\main.cpp
+	<iostream>
+	<cmath>
+	<utility>
+

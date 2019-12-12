@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553610244 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\digitalclock\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+
