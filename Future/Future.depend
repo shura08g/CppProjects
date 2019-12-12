@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564561736 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\future\main.cpp
+	<iostream>
+	<random>
+	<set>
+	<algorithm>
+	<future>
+

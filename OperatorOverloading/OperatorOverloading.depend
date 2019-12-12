@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550664685 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\operatoroverloading\main.cpp
+	<iostream>
+
+1550663844 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\operatoroverloading\templ.cpp
+	<iostream>
+
+1550664296 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\operatoroverloading\without_templ.cpp
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554194631 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\quadraticequation\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<clocale>
+
