@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555942507 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\struct\main.cpp
+	<iostream>
+	<clocale>
+	<string>
+

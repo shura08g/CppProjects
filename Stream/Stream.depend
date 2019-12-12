@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556014068 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\stream\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

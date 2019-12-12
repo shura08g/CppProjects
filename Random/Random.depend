@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563873700 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\random\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
