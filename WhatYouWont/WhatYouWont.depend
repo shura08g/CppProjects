@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567774395 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\whatyouwont\main.cpp
+	<iostream>
+	<fstream>
+
