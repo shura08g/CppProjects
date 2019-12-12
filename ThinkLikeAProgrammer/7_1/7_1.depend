@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1568804923 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\main.cpp
+	<iostream>
+	"studentCollection.h"
+	<string.h>
+	"scIterator.h"
+	<cstdlib>
+
+1568805013 d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\include\studentcollection.h
+	"studentRecord.h"
+
+1568726345 d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\include\studentrecord.h
+	<string>
+
+1568804857 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\src\studentcollection.cpp
+	"studentCollection.h"
+	<iostream>
+
+1568726827 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\src\studentrecord.cpp
+	"studentRecord.h"
+	<iostream>
+
+1568804751 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\src\sciterator.cpp
+	"scIterator.h"
+
+1568804895 d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\7_1\include\sciterator.h
+	"studentCollection.h"
+

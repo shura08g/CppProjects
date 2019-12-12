@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567676060 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\6_5\main.cpp
+	<iostream>
+	"binaryTree.h"
+
+1567676669 d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\6_5\include\binarytree.h
+
+1567676118 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\6_5\src\binarytree.cpp
+	"binaryTree.h"
+	<cstddef>
+	<iostream>
+	<stack>
+

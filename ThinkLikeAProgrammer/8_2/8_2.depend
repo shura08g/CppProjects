@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571656801 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\thinklikeaprogrammer\8_2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<list>
+	<cstring>
+	<clocale>
+
