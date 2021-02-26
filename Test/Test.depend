@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1614334359 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\main.cpp
+	"test.h"
+
+1614163536 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test1.cpp
+	<iostream>
+
+1614164585 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test2.cpp
+	<iostream>
+	<cmath>
+
+1614334895 d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test.h
+
+1614334458 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test4.cpp
+	<iostream>
+
+1614334458 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test3.cpp
+	<iostream>
+
+1614334458 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test5.cpp
+	<iostream>
+
+1614334458 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test6.cpp
+	<iostream>
+
+1614334425 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test7.cpp
+	<iostream>
+
+1614334218 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test8.cpp
+	<iostream>
+
+1614334705 source:d:\codeblocks-17.12mingw-nosetup\projectscpp\test\test9.cpp
+	<iostream>
+
