@@ -35,6 +35,7 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="test1.cpp" />
 		<Unit filename="test10.cpp" />
+		<Unit filename="test11.cpp" />
 		<Unit filename="test2.cpp" />
 		<Unit filename="test3.cpp" />
 		<Unit filename="test4.cpp" />

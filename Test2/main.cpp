@@ -12,5 +12,6 @@ int main()
     test8();  // A1
     test9();  // -2147483648  C++ 17 undefined behavior
     test10();  // 1 3
+    test11();  //
     return 0;
 }
