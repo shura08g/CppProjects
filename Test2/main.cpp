@@ -1,7 +1,6 @@
 #include "tests.h"
 // cppquiz.org
-int main()
-{
+auto main() -> int {
     test1();  // 1
     test2();  // 1 1 2
     test3();  // 1
@@ -13,5 +12,7 @@ int main()
     test9();  // -2147483648  C++ 17 undefined behavior
     test10();  // 1 3
     test11();  //
+    test12();  // 1
+    test13();  // 01
     return 0;
 }

@@ -36,6 +36,8 @@
 		<Unit filename="test1.cpp" />
 		<Unit filename="test10.cpp" />
 		<Unit filename="test11.cpp" />
+		<Unit filename="test12.cpp" />
+		<Unit filename="test13.cpp" />
 		<Unit filename="test2.cpp" />
 		<Unit filename="test3.cpp" />
 		<Unit filename="test4.cpp" />
@@ -45,10 +47,6 @@
 		<Unit filename="test8.cpp" />
 		<Unit filename="test9.cpp" />
 		<Unit filename="tests.h" />
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-		</Extensions>
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
